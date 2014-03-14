@@ -10,7 +10,7 @@ This is the skeleton I use in order to create my E18 module.
 ####Usage:
 *   use genmod.rb in order to create a new module:
 ```
-bootstrap.rb --author your_name --mail your_mail new_proj
+genmod.rb --author your_name --mail your_mail new_proj
 ```
 *   Modify the files for your needs.
 *   Generate the module:
