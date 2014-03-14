@@ -1,0 +1,9 @@
+collections
+{
+  group {name: "modules/skel/main";
+	  parts{
+	    part {
+	    }
+    }
+  }
+}

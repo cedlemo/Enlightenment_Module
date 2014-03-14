@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Link
+Name=Hello_world
+Name[fr]=Hello_world
+Comment=
+Comment[fr]=
+Icon=e-module-hello_world
+X-Enlightenment-ModuleType=system
